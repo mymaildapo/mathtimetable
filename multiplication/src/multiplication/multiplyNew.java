@@ -61,5 +61,6 @@ public class multiplyNew {
 			System.out.println("wrong entering");
 
 		}
+		System.out.println("GoodBYE see you later ");
 	}
 }
